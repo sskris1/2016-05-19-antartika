@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : " http://sskris1.github.io/2016-05-19-antartik "
+workshop_repo   : "http://sskris1.github.io/2016-05-19-antartik"
 workshop_site   : "https://github.com/sskris1/2016-05-19-antartika"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
